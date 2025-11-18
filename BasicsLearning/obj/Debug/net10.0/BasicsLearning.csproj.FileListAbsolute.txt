@@ -1,0 +1,15 @@
+D:\Learning\C# Learning\BasicsLearning\bin\Debug\net10.0\BasicsLearning.exe
+D:\Learning\C# Learning\BasicsLearning\bin\Debug\net10.0\BasicsLearning.deps.json
+D:\Learning\C# Learning\BasicsLearning\bin\Debug\net10.0\BasicsLearning.runtimeconfig.json
+D:\Learning\C# Learning\BasicsLearning\bin\Debug\net10.0\BasicsLearning.dll
+D:\Learning\C# Learning\BasicsLearning\bin\Debug\net10.0\BasicsLearning.pdb
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\BasicsLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\BasicsLearning.AssemblyInfoInputs.cache
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\BasicsLearning.AssemblyInfo.cs
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\BasicsLearning.csproj.CoreCompileInputs.cache
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\BasicsLearning.sourcelink.json
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\BasicsLearning.dll
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\refint\BasicsLearning.dll
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\BasicsLearning.pdb
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\BasicsLearning.genruntimeconfig.cache
+D:\Learning\C# Learning\BasicsLearning\obj\Debug\net10.0\ref\BasicsLearning.dll
